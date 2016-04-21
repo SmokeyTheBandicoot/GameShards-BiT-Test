@@ -1,2 +1,2 @@
 # WhoWantsToBeAMillionaireCustom
-Didactic project fair teachers
+Didactic project for teachers
